@@ -8,8 +8,6 @@ const HomeView = () => {
     logout();
   };
 
-  //////
-
   return (
     <div>
       <h1>HOME</h1>
