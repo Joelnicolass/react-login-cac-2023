@@ -7,6 +7,7 @@ const HomeView = () => {
   const handleLogout = () => {
     logout();
   };
+  //
 
   return (
     <div>
